@@ -1,4 +1,4 @@
-# CodEdit
+# codedit
 > Live demo [_here_](). 
 
 ## Table of Contents
